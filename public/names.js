@@ -112,5 +112,3 @@ let names = [
     
 
 ];
-let storedNames = names.sort();
-console.log(storedNames);
